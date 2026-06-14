@@ -1,0 +1,22 @@
+{
+  "activation_encodings": {
+    "Conv_0_output_0": {
+      "bw": 8,
+      "type": "int"
+    },
+    "Conv_3_output_0": {
+      "bw": 16,
+      "type": "int"
+    }
+  },
+  "parameter_encodings": {
+    "conv1.weight": {
+      "bw": 8,
+      "type": "int"
+    },
+    "conv2.weight": {
+      "bw": 16,
+      "type": "int"
+    }
+  }
+}
